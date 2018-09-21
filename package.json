@@ -3,5 +3,24 @@
     "async": "^2.6.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
-  }
+  },
+  "name": "ping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-rekttt/ping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-rekttt/ping/issues"
+  },
+  "homepage": "https://github.com/t-rekttt/ping#readme",
+  "description": ""
 }
